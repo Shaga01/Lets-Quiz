@@ -1,2 +1,2 @@
 # Lets-Quiz
-My first try at creating a simple quiz app in React Native using JavaScript.
+My first project in React Native using JavaScript.This is a simple quiz app named 'Let's Quiz'.Play and enjoy.
